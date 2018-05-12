@@ -1,0 +1,25 @@
+_repo: Motor-Boat-Boys-River-Chaseor-Six-Chums-Afloat-and-Ashore_42019
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42019-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Arundel, Louis
+    gutenberg_agent_id: '25007'
+    url: http://www.gutenberg.org/2009/agents/25007
+description: ''
+gutenberg_issued: '2013-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42019'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Motorboats -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Mississippi River -- Juvenile fiction'
+title: Motor Boat Boys' River Chase; or, Six Chums Afloat and Ashore
+url: http://www.gutenberg.org/ebooks/42019
