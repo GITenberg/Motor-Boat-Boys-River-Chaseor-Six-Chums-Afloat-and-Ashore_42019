@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '25007'
     url: http://www.gutenberg.org/2009/agents/25007
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42019#Motor-Boat-Boys-River-Chaseor-Six-Chums-Afloat-and-Ashore
 gutenberg_issued: '2013-02-05'
 gutenberg_type: Text
 identifiers:
